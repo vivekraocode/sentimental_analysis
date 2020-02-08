@@ -8,6 +8,5 @@ for i in range(0,len(s1)):
             s3.append(s1[i])
             s1[j]='A'
             count+=1
-            break
 print(count)
 print(''.join(s3))
