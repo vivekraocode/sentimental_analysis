@@ -2,6 +2,7 @@ a0=[4,-5,-2]
 a1=[5,-6,-2]    #give input here a0,a1,a2 denotes 1,2,3 row and respective elements
 a2=[-8,9,3]
 
+
 b0=[0,0,0]
 b1=[0,0,0]
 b2=[0,0,0]
